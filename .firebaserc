@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "techfizzy-41ba0": {
+      "hosting": {
+        "fitmon": [
+          "techfizzy-41ba0"
+        ]
+      }
+    }
+  }
+}
